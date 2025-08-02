@@ -1,31 +1,25 @@
 fileFormatVersion: 2
-guid: 83efc5f39508548faad60abdd68420b7
+guid: 881eefb70b4ea354ba645328cff007ac
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4044267995237493590
-    second: bubble_soapy_sheet_0
+      213: -7078753939896280256
+    second: pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_0
   - first:
-      213: -2582460058917869545
-    second: bubble_soapy_sheet_1
+      213: 2952689873743635534
+    second: pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_1
   - first:
-      213: 4720587851434661468
-    second: bubble_soapy_sheet_2
+      213: 5751395572648062362
+    second: pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_2
   - first:
-      213: 1925731685244378477
-    second: bubble_soapy_sheet_3
+      213: -3027501189517183139
+    second: pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_3
   - first:
-      213: 7538544648271016015
-    second: bubble_soapy_sheet_4
+      213: 6972460715608724534
+    second: pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_4
   - first:
-      213: -12752811762744272
-    second: bubble_soapy_sheet_5
-  - first:
-      213: -1663265517479807661
-    second: bubble_soapy_sheet_6
-  - first:
-      213: 4365094739390533606
-    second: bubble_soapy_sheet_7
+      213: 8940588051816750531
+    second: pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -67,12 +61,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 150
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -147,13 +141,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bubble_soapy_sheet_0
+      name: pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 5
-        width: 53
-        height: 54
+        x: 88
+        y: 146
+        width: 61
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,108 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 65bac907050202830800000000000000
-      internalID: 4044267995237493590
+      spriteID: 04bd518ebc633cd90800000000000000
+      internalID: -7078753939896280256
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bubble_soapy_sheet_1
+      name: pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_1
       rect:
         serializedVersion: 2
-        x: 71
-        y: 3
-        width: 50
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 718e0954242492cd0800000000000000
-      internalID: -2582460058917869545
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bubble_soapy_sheet_2
-      rect:
-        serializedVersion: 2
-        x: 137
-        y: 0
-        width: 46
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c5699cfd3a5e28140800000000000000
-      internalID: 4720587851434661468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bubble_soapy_sheet_3
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 2
-        width: 48
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6d94b7c3c299ba10800000000000000
-      internalID: 1925731685244378477
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bubble_soapy_sheet_4
-      rect:
-        serializedVersion: 2
-        x: 262
-        y: 5
-        width: 53
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f40bd9baa6a4e9860800000000000000
-      internalID: 7538544648271016015
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bubble_soapy_sheet_5
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 8
+        x: 121
+        y: 236
         width: 58
-        height: 48
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,20 +178,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0348ef0a261b2dff0800000000000000
-      internalID: -12752811762744272
+      spriteID: e44e160dbcf0af820800000000000000
+      internalID: 2952689873743635534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bubble_soapy_sheet_6
+      name: pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_2
       rect:
         serializedVersion: 2
-        x: 384
-        y: 11
-        width: 64
-        height: 42
+        x: 160
+        y: 237
+        width: 84
+        height: 65
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 355b57ff2d4eae8e0800000000000000
-      internalID: -1663265517479807661
+      spriteID: a9d21761dcf01df40800000000000000
+      internalID: 5751395572648062362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bubble_soapy_sheet_7
+      name: pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_3
       rect:
         serializedVersion: 2
-        x: 451
-        y: 8
-        width: 58
-        height: 48
+        x: 216
+        y: 178
+        width: 57
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,8 +222,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ef8c48c98ee39c30800000000000000
-      internalID: 4365094739390533606
+      spriteID: d5771c165b72cf5d0800000000000000
+      internalID: -3027501189517183139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 132
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6345934441823c060800000000000000
+      internalID: 6972460715608724534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 119
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd93afb679531c70800000000000000
+      internalID: 8940588051816750531
       vertices: []
       indices: 
       edges: []
@@ -326,7 +276,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -336,14 +286,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bubble_soapy_sheet_0: 4044267995237493590
-      bubble_soapy_sheet_1: -2582460058917869545
-      bubble_soapy_sheet_2: 4720587851434661468
-      bubble_soapy_sheet_3: 1925731685244378477
-      bubble_soapy_sheet_4: 7538544648271016015
-      bubble_soapy_sheet_5: -12752811762744272
-      bubble_soapy_sheet_6: -1663265517479807661
-      bubble_soapy_sheet_7: 4365094739390533606
+      pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_0: -7078753939896280256
+      pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_1: 2952689873743635534
+      pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_2: 5751395572648062362
+      pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_3: -3027501189517183139
+      pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_4: 6972460715608724534
+      pngtree-set-recycle-recycling-icon-vector-logo-template-illustration-design-eps-10-png-image_5213174_5: 8940588051816750531
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

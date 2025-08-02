@@ -106,7 +106,7 @@ MonoBehaviour:
   speed: 0.4
   floatAmplitude: 0.5
   floatFrequency: 1.5
-  lifeTime: 10
+  lifeTime: 20
   dragSpeed: 8
   maxLevel: 3
   increaseScaleFactor: 1.5
