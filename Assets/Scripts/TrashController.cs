@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class TrashController : MonoBehaviour
 {
-
     Rigidbody2D rb2d;
     [SerializeField] Vector2 recycleDest;
     [SerializeField] intSO coins;
