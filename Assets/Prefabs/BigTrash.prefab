@@ -186,6 +186,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TrashBubble: {fileID: 6130852789591963680}
+  isInBubble: 0
+  floatFrequency: 0.4
+  floatAmplitude: 0.5
+  speed: 0.5
 --- !u!1001 &3903152710564419499
 PrefabInstance:
   m_ObjectHideFlags: 0
