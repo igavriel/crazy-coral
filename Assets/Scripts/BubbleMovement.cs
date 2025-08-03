@@ -3,13 +3,25 @@ using UnityEngine;
 
 public class BubbleMovement : MonoBehaviour
 {
+ [Tooltip("Vertical speed at which the bubble floats upward.")]
     public float speed = 1.5f;
+
+    [Tooltip("Amplitude of the bubble's horizontal floating motion.")]
     public float floatAmplitude = 0.5f;
+
+    [Tooltip("Frequency of the bubble's horizontal floating motion.")]
     public float floatFrequency = 1.5f;
+
+    [Tooltip("Lifetime of the bubble in seconds before it is destroyed.")]
     public float lifeTime = 10f;
+
+    [Tooltip("Speed at which the bubble moves when dragged.")]
     public float dragSpeed = 8f;
+
+    [Tooltip("Maximum level the bubble can reach by merging.")]
     public int maxLevel = 3;
 
+    [Tooltip("Factor by which the bubble's scale increases when merged.")]
     public float increaseScaleFactor = 1.3f; // Factor by which the bubble's scale increases
 
     private Vector3 startPos;

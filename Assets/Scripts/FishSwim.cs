@@ -2,8 +2,13 @@ using UnityEngine;
 
 public class FishSwim : MonoBehaviour
 {
+    [Tooltip("Speed at which the fish swims.")]
     public float swimSpeed = 1f;
+
+    [Tooltip("Time interval (in seconds) before the fish randomly changes direction.")]
     public float directionChangeInterval = 2f;
+
+    [Tooltip("Horizontal and vertical bounds for fish movement (centered at origin).")]
     public Vector2 swimBounds = new Vector2(2.5f, 5f); // Horizontal & vertical limits (based on camera)
 
     private Vector2 swimDirection;
