@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5197530969965980220}
   - component: {fileID: 4407506600312004643}
   - component: {fileID: 7682504918297412320}
+  - component: {fileID: 193002854272192985}
   m_Layer: 0
   m_Name: Link (1)
   m_TagString: Untagged
@@ -180,7 +181,7 @@ HingeJoint2D:
   m_BreakAction: 0
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: -0.5}
-  m_ConnectedAnchor: {x: 0, y: -0.25}
+  m_ConnectedAnchor: {x: 1.83, y: 16}
   m_UseConnectedAnchor: 1
   m_UseMotor: 0
   m_Motor:
@@ -190,6 +191,19 @@ HingeJoint2D:
   m_AngleLimits:
     m_LowerAngle: 0
     m_UpperAngle: 359
+--- !u!114 &193002854272192985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5502711423097303628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c9d565a36ba8b24598ac51cec0ca390, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hook: {fileID: 0}
 --- !u!1 &9183054326945724833
 GameObject:
   m_ObjectHideFlags: 0

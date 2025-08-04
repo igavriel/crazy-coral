@@ -24,12 +24,15 @@ public class BigTrashController : MonoBehaviour
         {
             RaycastHit2D hit = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), Vector2.zero);
 
-            if (hit.collider.TryGetComponent<BigTrashController>(out BigTrashController bubble))
+            if (hit.collider != null)
             {
-                Debug.Log("clicked on " + gameObject.name);
-                if (bubble.isInBubble && bubble.transform.position.y > 4)
+                if (hit.collider.TryGetComponent<BigTrashController>(out BigTrashController bubble))
                 {
-                    Destroy(bubble.gameObject);
+                    Debug.Log("clicked on " + gameObject.name);
+                    if (bubble.isInBubble && bubble.transform.position.y > 4)
+                    {
+                        Destroy(bubble.gameObject);
+                    }
                 }
             }
         }
