@@ -36,21 +36,13 @@ public class TrashController : MonoBehaviour
         Destroy(gameObject);
     }
 
-    //private void OnMouseDown()
-    //{
-    //    rb2d.bodyType = RigidbodyType2D.Kinematic;
-    //}
-
-    //private void OnMouseDrag()
-    //{
-    //    Vector2 position = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-    //    transform.position = position;
-    //}
-
-    //private void OnMouseUp()
-    //{
-    //    rb2d.bodyType = RigidbodyType2D.Dynamic;
-    //}
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Bottom"))
+        {
+            GetComponent<AudioSource>().Play();
+        }
+    }
 
     IEnumerator swing()
     {

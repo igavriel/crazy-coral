@@ -82,6 +82,7 @@ public class BubbleMovement : MonoBehaviour
             newScale.x *= increaseScaleFactor;
             newScale.y *= increaseScaleFactor;
             transform.localScale = newScale;
+            GetComponent<AudioSource>().Play();
         }
     }
 }
