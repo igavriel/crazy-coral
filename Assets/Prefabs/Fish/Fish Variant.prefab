@@ -12,6 +12,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: fish
       objectReference: {fileID: 0}
+    - target: {fileID: 3429162201115360102, guid: f3998dd10da4749d69c70427f60e8fe6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.502
+      objectReference: {fileID: 0}
+    - target: {fileID: 3429162201115360102, guid: f3998dd10da4749d69c70427f60e8fe6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.068
+      objectReference: {fileID: 0}
     - target: {fileID: 6672707151012547585, guid: f3998dd10da4749d69c70427f60e8fe6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.42
@@ -59,6 +67,10 @@ PrefabInstance:
     - target: {fileID: 7853275240491221305, guid: f3998dd10da4749d69c70427f60e8fe6, type: 3}
       propertyPath: m_Name
       value: Fish Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7871471677436694814, guid: f3998dd10da4749d69c70427f60e8fe6, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7871471677436694814, guid: f3998dd10da4749d69c70427f60e8fe6, type: 3}
       propertyPath: initialDirection

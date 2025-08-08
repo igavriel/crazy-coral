@@ -49,6 +49,7 @@ MonoBehaviour:
   swimSpeed: 1
   directionChangeInterval: 3
   swimBounds: {x: 2.8, y: 5}
+  initialDirection: 1
 --- !u!1001 &2603640357328741442
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -132,6 +133,10 @@ PrefabInstance:
       value: BubbleSpawner
       objectReference: {fileID: 0}
     - target: {fileID: 4015398215005279532, guid: 125e2b4bf048d46d7aeee8e2b11eb5a5, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4015398215005279532, guid: 125e2b4bf048d46d7aeee8e2b11eb5a5, type: 3}
       propertyPath: spawnInterval
       value: 2
       objectReference: {fileID: 0}
@@ -145,11 +150,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8518288558352472917, guid: 125e2b4bf048d46d7aeee8e2b11eb5a5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.471
       objectReference: {fileID: 0}
     - target: {fileID: 8518288558352472917, guid: 125e2b4bf048d46d7aeee8e2b11eb5a5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.3
+      value: -0.139
       objectReference: {fileID: 0}
     - target: {fileID: 8518288558352472917, guid: 125e2b4bf048d46d7aeee8e2b11eb5a5, type: 3}
       propertyPath: m_LocalPosition.z

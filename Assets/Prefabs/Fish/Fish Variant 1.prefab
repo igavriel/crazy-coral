@@ -56,6 +56,10 @@ PrefabInstance:
       propertyPath: initialDirection
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7933180848962172191, guid: f3998dd10da4749d69c70427f60e8fe6, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
