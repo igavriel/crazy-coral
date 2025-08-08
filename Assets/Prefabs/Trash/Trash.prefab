@@ -168,7 +168,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1fe60f0b751b454a81695464bd6e919, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  recycleDest: {x: 2, y: 3}
+  recycleDest: {x: 2, y: 4}
   coins: {fileID: 11400000, guid: f1fb85be52b3fdb499c27ffba7b86cc4, type: 2}
 --- !u!114 &7722399754716061825
 MonoBehaviour:

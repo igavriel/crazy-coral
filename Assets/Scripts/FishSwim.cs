@@ -26,13 +26,6 @@ public class FishSwim : MonoBehaviour
 
     void Start()
     {
-        // If parent has a Collider2D, use its bounds for swimBounds
-        Collider2D parentCollider = transform.parent != null ? transform.parent.GetComponent<Collider2D>() : null;
-        if (parentCollider != null)
-        {
-            Bounds bounds = parentCollider.bounds;
-            swimBounds = new Vector2(bounds.extents.x, bounds.extents.y);
-        }
         // Look for the first child with a SpriteRenderer and a sprite
         foreach (Transform child in transform)
         {
