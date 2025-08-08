@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      toxic_waste_0: -65814191190327750
+      toxic_waste_1: 3579490768516010563
+      toxic_waste_2: 6975357594900002746
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 044bfb0bfce463e4e8ac1fe63dab5107
+guid: 3d87e41df18064aa48e3740813a3ecf5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7029395700351280321
-    second: spirulina6_0
+      213: 1619246263812588186
+    second: Rabbitfish_C_00246_0
+  - first:
+      213: 6300096832764252803
+    second: Rabbitfish_C_00246_1
+  - first:
+      213: 8810248702971518226
+    second: Rabbitfish_C_00246_2
+  - first:
+      213: -947212775806847471
+    second: Rabbitfish_C_00246_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +55,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -126,13 +135,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spirulina6_0
+      name: Rabbitfish_C_00246_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 5000
-        height: 5000
+        y: 1101
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +150,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f3b57e69ad1927e90800000000000000
-      internalID: -7029395700351280321
+      spriteID: a928d66d5e7b87610800000000000000
+      internalID: 1619246263812588186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbitfish_C_00246_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 1003
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3821a77a0b07e6750800000000000000
+      internalID: 6300096832764252803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbitfish_C_00246_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d9673448a444a70800000000000000
+      internalID: 8810248702971518226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rabbitfish_C_00246_3
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 234
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116325bbff2dad2f0800000000000000
+      internalID: -947212775806847471
       vertices: []
       indices: 
       edges: []
@@ -151,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +236,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      spirulina6_0: -7029395700351280321
+      Rabbitfish_C_00246_0: 1619246263812588186
+      Rabbitfish_C_00246_1: 6300096832764252803
+      Rabbitfish_C_00246_2: 8810248702971518226
+      Rabbitfish_C_00246_3: -947212775806847471
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

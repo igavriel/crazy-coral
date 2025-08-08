@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 044bfb0bfce463e4e8ac1fe63dab5107
+guid: cdffddfc1d78b42dfb42c050ac776565
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7029395700351280321
-    second: spirulina6_0
+      213: 3383325279609738833
+    second: mencius_mdj_A_high-resolution_image_of_the_classic_recycling_sy_45819b85-ff49-487a-b679-4bee18c67dac-removebg-preview_0
+  - first:
+      213: 5103060561313195753
+    second: mencius_mdj_A_high-resolution_image_of_the_classic_recycling_sy_45819b85-ff49-487a-b679-4bee18c67dac-removebg-preview_1
+  - first:
+      213: 945193368864872591
+    second: mencius_mdj_A_high-resolution_image_of_the_classic_recycling_sy_45819b85-ff49-487a-b679-4bee18c67dac-removebg-preview_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -126,13 +132,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spirulina6_0
+      name: mencius_mdj_A_high-resolution_image_of_the_classic_recycling_sy_45819b85-ff49-487a-b679-4bee18c67dac-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 5000
-        height: 5000
+        x: 110
+        y: 122
+        width: 136
+        height: 177
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +147,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f3b57e69ad1927e90800000000000000
-      internalID: -7029395700351280321
+      spriteID: 156dcba8a6cf3fe20800000000000000
+      internalID: 3383325279609738833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mencius_mdj_A_high-resolution_image_of_the_classic_recycling_sy_45819b85-ff49-487a-b679-4bee18c67dac-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 291
+        width: 192
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6e0681b86b1d640800000000000000
+      internalID: 5103060561313195753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mencius_mdj_A_high-resolution_image_of_the_classic_recycling_sy_45819b85-ff49-487a-b679-4bee18c67dac-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 107
+        width: 148
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88de337c500e1d00800000000000000
+      internalID: 945193368864872591
       vertices: []
       indices: 
       edges: []
@@ -151,7 +201,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +211,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      spirulina6_0: -7029395700351280321
+      mencius_mdj_A_high-resolution_image_of_the_classic_recycling_sy_45819b85-ff49-487a-b679-4bee18c67dac-removebg-preview_0: 3383325279609738833
+      mencius_mdj_A_high-resolution_image_of_the_classic_recycling_sy_45819b85-ff49-487a-b679-4bee18c67dac-removebg-preview_1: 5103060561313195753
+      mencius_mdj_A_high-resolution_image_of_the_classic_recycling_sy_45819b85-ff49-487a-b679-4bee18c67dac-removebg-preview_2: 945193368864872591
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

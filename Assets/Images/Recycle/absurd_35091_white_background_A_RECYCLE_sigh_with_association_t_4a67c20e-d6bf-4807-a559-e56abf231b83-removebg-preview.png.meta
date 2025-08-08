@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 6e206699ee9b3410cab9a1f2fb316d1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7002524258788545875
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_0
+  - first:
+      213: 8531814081449028316
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_1
+  - first:
+      213: 2759307667159796851
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_2
+  - first:
+      213: 2806582777272745607
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_3
+  - first:
+      213: -6990741467115036614
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_4
+  - first:
+      213: -3690941817126772651
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_5
+  - first:
+      213: 6065376131021845151
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_6
+  - first:
+      213: -4043494396710458449
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_7
+  - first:
+      213: 8623642145438825366
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_8
+  - first:
+      213: 7642962852198183703
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_9
+  - first:
+      213: -7500796139972267353
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_10
+  - first:
+      213: 889986902562407232
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_11
+  - first:
+      213: -2052970149146274691
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_12
+  - first:
+      213: 1287134436320366711
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_13
+  - first:
+      213: -1592743411236209270
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_14
+  - first:
+      213: 7936084880391945043
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_15
+  - first:
+      213: -6440558916782347523
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_16
+  - first:
+      213: 1165580415057514256
+    second: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 347
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa6adf994902de90800000000000000
+      internalID: -7002524258788545875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 274
+        width: 214
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdae17e14b7176670800000000000000
+      internalID: 8531814081449028316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 359
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c421f24b70b4620800000000000000
+      internalID: 2759307667159796851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 303
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e32108a2cf2f620800000000000000
+      internalID: 2806582777272745607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 87
+        width: 168
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30e3089ca5ebfe90800000000000000
+      internalID: -6990741467115036614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 312
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550268709f327ccc0800000000000000
+      internalID: -3690941817126772651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 310
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92b0b6947b8c2450800000000000000
+      internalID: 6065376131021845151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 297
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab6ac0054f92e7c0800000000000000
+      internalID: -4043494396710458449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 269
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bf7fc57d45da770800000000000000
+      internalID: 8623642145438825366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 285
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71377cc4832411a60800000000000000
+      internalID: 7642962852198183703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 105
+        width: 145
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2f450d6a1d7e790800000000000000
+      internalID: -7500796139972267353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 249
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0438bfd5f5ed95c00800000000000000
+      internalID: 889986902562407232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 211
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74d7a5c6826283e0800000000000000
+      internalID: -2052970149146274691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 237
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7705c0743f1dcd110800000000000000
+      internalID: 1287134436320366711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 163
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dfbe26e4075e9e0800000000000000
+      internalID: -1592743411236209270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 92
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b3c1bc623a22e60800000000000000
+      internalID: 7936084880391945043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 88
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaa63ae9c98e96a0800000000000000
+      internalID: -6440558916782347523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 86
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fc7a44639fc2010800000000000000
+      internalID: 1165580415057514256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_0: -7002524258788545875
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_1: 8531814081449028316
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_10: -7500796139972267353
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_11: 889986902562407232
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_12: -2052970149146274691
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_13: 1287134436320366711
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_14: -1592743411236209270
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_15: 7936084880391945043
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_16: -6440558916782347523
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_17: 1165580415057514256
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_2: 2759307667159796851
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_3: 2806582777272745607
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_4: -6990741467115036614
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_5: -3690941817126772651
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_6: 6065376131021845151
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_7: -4043494396710458449
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_8: 8623642145438825366
+      absurd_35091_white_background_A_RECYCLE_sigh_with_association_t_4a67c20e-d6bf-4807-a559-e56abf231b83-removebg-preview_9: 7642962852198183703
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

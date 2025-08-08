@@ -11,6 +11,15 @@ public class FishSwim : MonoBehaviour
     [Tooltip("Horizontal and vertical bounds for fish movement (centered at origin).")]
     public Vector2 swimBounds = new Vector2(2.5f, 5f); // Horizontal & vertical limits (based on camera)
 
+    public enum Direction
+    {
+        Left,
+        Right,
+    };
+
+    [Tooltip("Initial direction of the fish. This is only used to set the initial sprite flip.")]
+    public Direction initialDirection = Direction.Right;
+
     private Vector2 swimDirection;
     private float timer;
     private SpriteRenderer spriteRenderer;
@@ -38,7 +47,9 @@ public class FishSwim : MonoBehaviour
         transform.Translate(swimDirection * swimSpeed * Time.deltaTime);
 
         // Flip sprite depending on direction
-        if (spriteRenderer != null)
+        if (initialDirection == Direction.Right)
+            spriteRenderer.flipX = swimDirection.x < 0;
+        else
             spriteRenderer.flipX = swimDirection.x > 0;
 
         // Keep within bounds and change direction if touching bound
