@@ -53,6 +53,10 @@ PrefabInstance:
       value: Fish Variant 1
       objectReference: {fileID: 0}
     - target: {fileID: 7871471677436694814, guid: f3998dd10da4749d69c70427f60e8fe6, type: 3}
+      propertyPath: swimSpeed
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7871471677436694814, guid: f3998dd10da4749d69c70427f60e8fe6, type: 3}
       propertyPath: initialDirection
       value: 0
       objectReference: {fileID: 0}

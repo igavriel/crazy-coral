@@ -46,9 +46,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 799741d79efac47c3b4a00b4d80de4b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  swimSpeed: 1
+  swimSpeed: 0.2
   directionChangeInterval: 3
-  swimBounds: {x: 2.8, y: 5}
+  swimBounds: {x: 3, y: 4.5}
   initialDirection: 1
 --- !u!1001 &2603640357328741442
 PrefabInstance:
