@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using UnityEngine;
 
 public class BubbleMovement : MonoBehaviour
@@ -61,11 +62,17 @@ public class BubbleMovement : MonoBehaviour
 
     void OnMouseUp()
     {
-        isDragging = false;
+        StartCoroutine(ReleaseBubble());
     }
 
     void OnMouseExit()
     {
+        StartCoroutine(ReleaseBubble());
+    }
+
+    private IEnumerator ReleaseBubble()
+    {
+        yield return new WaitForSeconds(0.5f); // Small delay before allowing movement again
         isDragging = false;
     }
 
