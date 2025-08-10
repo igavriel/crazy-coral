@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using UnityEngine;
+using static UnityEngine.GraphicsBuffer;
 
 public class BubbleMovement : MonoBehaviour
 {
@@ -82,14 +83,22 @@ public class BubbleMovement : MonoBehaviour
         if (otherBubble != null && otherBubble.bubbleLevel == bubbleLevel && bubbleLevel < maxLevel)
         {
             bubbleLevel++;
-            Destroy(otherBubble.gameObject);
+            Vector3 direction = other.transform.position - transform.position;
+            float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+            transform.rotation = Quaternion.Euler(0, 0, angle);
+            GetComponent<Animator>().SetTrigger("Merge");
 
-            // Increase scale x and y twice
-            Vector3 newScale = transform.localScale;
-            newScale.x *= increaseScaleFactor;
-            newScale.y *= increaseScaleFactor;
-            transform.localScale = newScale;
-            GetComponent<AudioSource>().Play();
+            Destroy(otherBubble.gameObject);
+            GetComponent<AudioSource>().Play();            
         }
+    }
+
+    public void increaseSize()
+    {
+        // Increase scale x and y twice
+        Vector3 newScale = transform.localScale;
+        newScale.x *= increaseScaleFactor;
+        newScale.y *= increaseScaleFactor;
+        transform.localScale = newScale;
     }
 }
