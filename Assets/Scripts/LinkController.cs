@@ -20,10 +20,14 @@ public class LinkController : MonoBehaviour
     }
     private void RemoveRope()
     {
-        hook.GetComponent<BoxCollider2D>().isTrigger = false;
-        hook.GetComponent<FishCatcher>().enabled = false;
-        hook.GetComponent<TrashController>().enabled = true;
-        hook.transform.parent = null;
+        if (hook.transform.parent == transform.parent)
+        {
+            hook.GetComponent<BoxCollider2D>().isTrigger = false;
+            hook.GetComponent<FishCatcher>().enabled = false;
+            hook.GetComponent<TrashController>().enabled = true;
+            hook.transform.parent = null;
+        }
+        
 
         Destroy(transform.parent.gameObject);
     }

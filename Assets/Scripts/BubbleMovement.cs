@@ -5,6 +5,7 @@ using static UnityEngine.GraphicsBuffer;
 using DG;
 using DG.Tweening;
 using System.Transactions;
+using UnityEngine.Rendering.Universal;
 
 public class BubbleMovement : MonoBehaviour
 {
@@ -33,7 +34,8 @@ public class BubbleMovement : MonoBehaviour
     private float timer;
     private bool isDragging = false;
     private int bubbleLevel = 1;
-    private bool hasTrash = false;
+    public bool hasTrash = false;
+    [SerializeField] SpriteRenderer secondSprite;
 
     void Start()
     {
@@ -49,6 +51,7 @@ public class BubbleMovement : MonoBehaviour
         if (isDragging)
         {
             return;
+            
             //Vector3 mousePos = Input.mousePosition;
             //mousePos.z = Camera.main.WorldToScreenPoint(transform.position).z;
             //Vector3 targetWorldPos = Camera.main.ScreenToWorldPoint(mousePos);
@@ -87,10 +90,10 @@ public class BubbleMovement : MonoBehaviour
     {
         if (hasTrash)
             return;
-
         BubbleMovement otherBubble = other.GetComponent<BubbleMovement>();
         if (otherBubble != null && otherBubble.bubbleLevel == bubbleLevel && bubbleLevel < maxLevel)
         {
+            
             bubbleLevel++;
             Vector3 direction = other.transform.position - transform.position;
             float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
@@ -107,10 +110,11 @@ public class BubbleMovement : MonoBehaviour
                 return;
 
             other.transform.SetParent(transform, true);
-            other.GetComponent<Collider2D>().enabled = false;
+            Destroy(other.GetComponent<Collider2D>());
             other.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Kinematic;
             other.transform.DOLocalMove(Vector3.zero, 0.5f);
             hasTrash = true;
+            Destroy(GetComponent<Collider2D>());
         }
     }
 
@@ -121,5 +125,15 @@ public class BubbleMovement : MonoBehaviour
         newScale.x *= increaseScaleFactor;
         newScale.y *= increaseScaleFactor;
         transform.localScale = newScale;
+    }
+
+    public void enableSecondSprite()
+    {
+        secondSprite.enabled = true;
+    }
+
+    public void disableSecondSprite()
+    {
+        secondSprite.enabled = false;
     }
 }

@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 /// <summary>
 /// Drag a Rigidbody2D by selecting one of its colliders by pressing the mouse down.
@@ -46,9 +46,16 @@ public class DragTarget : MonoBehaviour
 
             // Attach the anchor to the local-point where we clicked.
             m_TargetJoint.anchor = m_TargetJoint.transform.InverseTransformPoint(worldPos);
+
+            if (m_TargetJoint.TryGetComponent<BubbleMovement>(out BubbleMovement bubble))
+                bubble.enableSecondSprite();
         }
         else if (Input.GetMouseButtonUp(0))
         {
+            if (!m_TargetJoint)
+                return;
+            if (m_TargetJoint.TryGetComponent<BubbleMovement>(out BubbleMovement bubble))
+                bubble.disableSecondSprite();
             Destroy(m_TargetJoint);
             m_TargetJoint = null;
             return;
