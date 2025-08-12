@@ -2,6 +2,9 @@ using System;
 using System.Collections;
 using UnityEngine;
 using static UnityEngine.GraphicsBuffer;
+using DG;
+using DG.Tweening;
+using System.Transactions;
 
 public class BubbleMovement : MonoBehaviour
 {
@@ -30,6 +33,7 @@ public class BubbleMovement : MonoBehaviour
     private float timer;
     private bool isDragging = false;
     private int bubbleLevel = 1;
+    private bool hasTrash = false;
 
     void Start()
     {
@@ -44,15 +48,17 @@ public class BubbleMovement : MonoBehaviour
 
         if (isDragging)
         {
-            Vector3 mousePos = Input.mousePosition;
-            mousePos.z = Camera.main.WorldToScreenPoint(transform.position).z;
-            Vector3 targetWorldPos = Camera.main.ScreenToWorldPoint(mousePos);
-            transform.position = Vector3.MoveTowards(transform.position, targetWorldPos, dragSpeed * Time.deltaTime);
+            return;
+            //Vector3 mousePos = Input.mousePosition;
+            //mousePos.z = Camera.main.WorldToScreenPoint(transform.position).z;
+            //Vector3 targetWorldPos = Camera.main.ScreenToWorldPoint(mousePos);
+            //transform.position = Vector3.MoveTowards(transform.position, targetWorldPos, dragSpeed * Time.deltaTime);
         }
         else
         {
             float horizontalOffset = Mathf.Sin(timer * floatFrequency) * floatAmplitude;
-            transform.position = new Vector3(startPos.x + horizontalOffset, transform.position.y + speed * Time.deltaTime, 0);
+            GetComponent<Rigidbody2D>().linearVelocity = new Vector2(horizontalOffset, speed);
+            //transform.position = new Vector3(startPos.x + horizontalOffset, transform.position.y + speed * Time.deltaTime, 0);
         }
     }
 
@@ -68,7 +74,7 @@ public class BubbleMovement : MonoBehaviour
 
     void OnMouseExit()
     {
-        StartCoroutine(ReleaseBubble());
+        //StartCoroutine(ReleaseBubble());
     }
 
     private IEnumerator ReleaseBubble()
@@ -79,6 +85,9 @@ public class BubbleMovement : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
+        if (hasTrash)
+            return;
+
         BubbleMovement otherBubble = other.GetComponent<BubbleMovement>();
         if (otherBubble != null && otherBubble.bubbleLevel == bubbleLevel && bubbleLevel < maxLevel)
         {
@@ -90,6 +99,18 @@ public class BubbleMovement : MonoBehaviour
 
             Destroy(otherBubble.gameObject);
             GetComponent<AudioSource>().Play();            
+        }
+
+        if (other.TryGetComponent<TrashBubbleInteraction>(out TrashBubbleInteraction Interaction))
+        {
+            if (bubbleLevel < Interaction.trashLevel)
+                return;
+
+            other.transform.SetParent(transform, true);
+            other.GetComponent<Collider2D>().enabled = false;
+            other.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Kinematic;
+            other.transform.DOLocalMove(Vector3.zero, 0.5f);
+            hasTrash = true;
         }
     }
 

@@ -163,7 +163,7 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!233 &7682504918297412320
 HingeJoint2D:
@@ -181,7 +181,7 @@ HingeJoint2D:
   m_BreakAction: 0
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: -0.5}
-  m_ConnectedAnchor: {x: 1.83, y: 16}
+  m_ConnectedAnchor: {x: 0.23, y: 6.5}
   m_UseConnectedAnchor: 1
   m_UseMotor: 0
   m_Motor:
