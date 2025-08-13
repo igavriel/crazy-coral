@@ -90,6 +90,7 @@ public class BubbleMovement : MonoBehaviour
     {
         if (hasTrash)
             return;
+
         BubbleMovement otherBubble = other.GetComponent<BubbleMovement>();
         if (otherBubble != null && otherBubble.bubbleLevel == bubbleLevel && bubbleLevel < maxLevel)
         {
@@ -111,7 +112,11 @@ public class BubbleMovement : MonoBehaviour
 
             other.transform.SetParent(transform, true);
             Destroy(other.GetComponent<Collider2D>());
-            other.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Kinematic;
+            if (other.GetComponent<Rigidbody2D>())
+                other.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Kinematic;
+            if (other.GetComponent<FishSwim>())
+                other.GetComponent<FishSwim>().enabled = false;
+
             other.transform.DOLocalMove(Vector3.zero, 0.5f);
             hasTrash = true;
             Destroy(GetComponent<Collider2D>());

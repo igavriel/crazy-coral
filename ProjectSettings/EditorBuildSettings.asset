@@ -6,14 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainScene.unity
-    guid: 8af80db0a97444c7292e3be6a66ff527
+    path: Assets/Scenes/HomeScene.unity
+    guid: b2cba89029f38bf46ba860f8cbed5c82
   - enabled: 1
     path: Assets/Scenes/GameScene.unity
     guid: 69001ad5b45e6444f9281411066d39a8
   - enabled: 1
     path: Assets/Scenes/MapScene.unity
     guid: 170c9897a99fb4a978de7425991a28b7
+  - enabled: 1
+    path: Assets/Scenes/FishScene.unity
+    guid: fe79cec3003624d4c9e6775521f59a24
   m_configObjects:
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 8c8d84321ace640d29b437ff9e86345c, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: f22a057d6bd564ec68ac3f26548247f6, type: 2}

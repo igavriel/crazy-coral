@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class GameManager : MonoBehaviour
     public GameData GameData { get; private set; } = new();
 
     public bool IsDebugMode { get; private set; } = false;
+
 
     void Awake()
     {
