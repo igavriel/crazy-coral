@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      error messege - Copy_0: -4887915014797823770
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
