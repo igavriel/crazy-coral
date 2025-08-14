@@ -34,6 +34,9 @@ public class DragTarget : MonoBehaviour
             if (!collider)
                 return;
 
+            if (collider.transform.CompareTag("Bottom"))
+                collider.GetComponent<ArrowController>().arrowPressed();
+
             // Fetch the collider body.
             var body = collider.attachedRigidbody;
             if (!body)

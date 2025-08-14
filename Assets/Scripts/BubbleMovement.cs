@@ -40,6 +40,11 @@ public class BubbleMovement : MonoBehaviour
     void Start()
     {
         startPos = transform.position;
+
+        transform.localScale = Vector3.one * 0.1f;
+
+        transform.DOScale(Vector3.one, 1f).SetEase(Ease.OutBounce);
+
         timer = 0f;
         Destroy(gameObject, lifeTime); // Destroy after a few seconds
     }
@@ -47,6 +52,9 @@ public class BubbleMovement : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime;
+
+        if (transform.position.y > 6)
+            Destroy(gameObject);
 
         if (isDragging)
         {
@@ -119,6 +127,7 @@ public class BubbleMovement : MonoBehaviour
 
             other.transform.DOLocalMove(Vector3.zero, 0.5f);
             hasTrash = true;
+            speed *= 4;
             Destroy(GetComponent<Collider2D>());
         }
     }

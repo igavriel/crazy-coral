@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.Diagnostics;
+using DG;
 
 public class BubbleAutoSpawn : MonoBehaviour
 {

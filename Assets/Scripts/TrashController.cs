@@ -30,6 +30,7 @@ public class TrashController : MonoBehaviour
 
     private void OnDestroy()
     {
+        FindFirstObjectByType<SliderController>().increaseUnits();
         coins.Value++;
     }
 
