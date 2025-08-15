@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: fd163668fa1cc3f46953fcab3f51bbca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7522607396280283015
+    second: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_0
+  - first:
+      213: -8641734394863036775
+    second: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_1
+  - first:
+      213: -1784458855884212462
+    second: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_2
+  - first:
+      213: -8622013203200114619
+    second: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_3
+  - first:
+      213: -4333376758295186909
+    second: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_4
+  - first:
+      213: 6079315301688270355
+    second: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_5
+  - first:
+      213: 8720769429273996942
+    second: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_6
+  - first:
+      213: -1622509174631211309
+    second: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_7
+  - first:
+      213: -2426629545376999495
+    second: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_8
+  - first:
+      213: -5645683836770192786
+    second: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_9
+  - first:
+      213: -3138786310229232579
+    second: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_10
+  - first:
+      213: 5489393516670715472
+    second: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_11
+  - first:
+      213: 6200625788848527813
+    second: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_12
+  - first:
+      213: 9035973094285890748
+    second: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_0
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 274
+        width: 694
+        height: 1151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f2308029ba56860800000000000000
+      internalID: 7522607396280283015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_1
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1403
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996d9ee8a54621880800000000000000
+      internalID: -8641734394863036775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_2
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1365
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217b8b200245c37e0800000000000000
+      internalID: -1784458855884212462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_3
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1224
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540878e4ca4785880800000000000000
+      internalID: -8622013203200114619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1264
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322b1eb2cc0ccd3c0800000000000000
+      internalID: -4333376758295186909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1049
+        width: 130
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ed9baae011e5450800000000000000
+      internalID: 6079315301688270355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 934
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e66ff5795660970800000000000000
+      internalID: 8720769429273996942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_7
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 826
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de5b498080bb79e0800000000000000
+      internalID: -1622509174631211309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_8
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 810
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7165a0941e25ed0800000000000000
+      internalID: -2426629545376999495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_9
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 735
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62f52b667086a1b0800000000000000
+      internalID: -5645683836770192786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 716
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d347de81b7ac074d0800000000000000
+      internalID: -3138786310229232579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 688
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0568d71c15e3e2c40800000000000000
+      internalID: 5489393516670715472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 687
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c951797d4c0d0650800000000000000
+      internalID: 6200625788848527813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 659
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4d5e497a9366d70800000000000000
+      internalID: 9035973094285890748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_0: 7522607396280283015
+      social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_1: -8641734394863036775
+      social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_10: -3138786310229232579
+      social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_11: 5489393516670715472
+      social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_12: 6200625788848527813
+      social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_13: 9035973094285890748
+      social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_2: -1784458855884212462
+      social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_3: -8622013203200114619
+      social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_4: -4333376758295186909
+      social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_5: 6079315301688270355
+      social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_6: 8720769429273996942
+      social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_7: -1622509174631211309
+      social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_8: -2426629545376999495
+      social_u5135432447_httpss.mj.run8uBz99iJ_eo_beautiful_shiny_coral_on_9ebd2ba3-5e6d-4e06-bac3-f94f02833166_1_00253_9: -5645683836770192786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
