@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 364b93850473b4d77b37b5b783784896
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7110873420438671830
+    second: fish_00012_0
+  - first:
+      213: 2720047769696567525
+    second: fish_00012_1
+  - first:
+      213: 6875991862908517488
+    second: fish_00012_2
+  - first:
+      213: 2739094718252498210
+    second: fish_00012_3
+  - first:
+      213: -593318898919357100
+    second: fish_00012_4
+  - first:
+      213: 3060235199871776056
+    second: fish_00012_5
+  - first:
+      213: 5559034227155216220
+    second: fish_00012_6
+  - first:
+      213: 2402741025758002754
+    second: fish_00012_7
+  - first:
+      213: 3102124483252635233
+    second: fish_00012_8
+  - first:
+      213: 1040934742795828357
+    second: fish_00012_9
+  - first:
+      213: 3887102638178734300
+    second: fish_00012_10
+  - first:
+      213: -3783418466646601803
+    second: fish_00012_11
+  - first:
+      213: -4881113765096493100
+    second: fish_00012_12
+  - first:
+      213: 4529068039273052002
+    second: fish_00012_13
+  - first:
+      213: -5566426742173443494
+    second: fish_00012_14
+  - first:
+      213: -5549784938249261364
+    second: fish_00012_15
+  - first:
+      213: 3648259213220080927
+    second: fish_00012_16
+  - first:
+      213: 2340550993661644418
+    second: fish_00012_17
+  - first:
+      213: 5787630424208387114
+    second: fish_00012_18
+  - first:
+      213: 300040339635835222
+    second: fish_00012_19
+  - first:
+      213: -8320836301176738380
+    second: fish_00012_20
+  - first:
+      213: 6940057784919685815
+    second: fish_00012_21
+  - first:
+      213: -5944005987701885191
+    second: fish_00012_22
+  - first:
+      213: 6268374010674111168
+    second: fish_00012_23
+  - first:
+      213: 8511890842129585491
+    second: fish_00012_24
+  - first:
+      213: 3217315289353923874
+    second: fish_00012_25
+  - first:
+      213: -6888509022431161583
+    second: fish_00012_26
+  - first:
+      213: 5191414188919599251
+    second: fish_00012_27
+  - first:
+      213: -8931262433192235151
+    second: fish_00012_28
+  - first:
+      213: -4061449787526408871
+    second: fish_00012_29
+  - first:
+      213: -3679874737533650047
+    second: fish_00012_30
+  - first:
+      213: -188639052130693274
+    second: fish_00012_31
+  - first:
+      213: 117416385717145193
+    second: fish_00012_32
+  - first:
+      213: 1444196317623860736
+    second: fish_00012_33
+  - first:
+      213: -3527461086339168498
+    second: fish_00012_34
+  - first:
+      213: 409229533801025718
+    second: fish_00012_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fish_00012_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 487
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1930c63b5eea260800000000000000
+      internalID: 7110873420438671830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e08bdcf80d8fb520800000000000000
+      internalID: 2720047769696567525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 495
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c73233b2e6c6f50800000000000000
+      internalID: 6875991862908517488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22db6974228330620800000000000000
+      internalID: 2739094718252498210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 488
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455c26fda9b14c7f0800000000000000
+      internalID: -593318898919357100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 482
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835f08153b3287a20800000000000000
+      internalID: 3060235199871776056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 481
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5723d33d28a52d40800000000000000
+      internalID: 5559034227155216220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 463
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e309f8b30485120800000000000000
+      internalID: 2402741025758002754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_8
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 459
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166c05128c5fc0b20800000000000000
+      internalID: 3102124483252635233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c35ba22a4227e00800000000000000
+      internalID: 1040934742795828357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 357
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd090223143c1f530800000000000000
+      internalID: 3887102638178734300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 336
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf40e233f89e7bc0800000000000000
+      internalID: -3783418466646601803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 317
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df672354ecc24cb0800000000000000
+      internalID: -4881113765096493100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 5
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267f17cb26b7ade30800000000000000
+      internalID: 4529068039273052002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 273
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a5484ce5410c2b0800000000000000
+      internalID: -5566426742173443494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 131
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccee6dfa0043bf2b0800000000000000
+      internalID: -5549784938249261364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d6784dc6831a230800000000000000
+      internalID: 3648259213220080927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 14
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ec3eb5abe4b7020800000000000000
+      internalID: 2340550993661644418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_18
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 25
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c2f26e43bc15050800000000000000
+      internalID: 5787630424208387114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 8
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65118466915f92400800000000000000
+      internalID: 300040339635835222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd6f224873768c80800000000000000
+      internalID: -8320836301176738380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 12
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba72de09c9005060800000000000000
+      internalID: 6940057784919685815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6fb300c06a28da0800000000000000
+      internalID: -5944005987701885191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2658193fcbdf650800000000000000
+      internalID: 6268374010674111168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_24
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355d80c7f9f402670800000000000000
+      internalID: 8511890842129585491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 15
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22daf58a53336ac20800000000000000
+      internalID: 3217315289353923874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 12
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113daed7a891760a0800000000000000
+      internalID: -6888509022431161583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_27
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390b97413bb9b0840800000000000000
+      internalID: 5191414188919599251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_28
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 14
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f29c90328cd0480800000000000000
+      internalID: -8931262433192235151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 168
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955176dcfe4d2a7c0800000000000000
+      internalID: -4061449787526408871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_30
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b7f5b4c657eecc0800000000000000
+      internalID: -3679874737533650047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_31
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fcbf218c1d16df0800000000000000
+      internalID: -188639052130693274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e0b79a49521a100800000000000000
+      internalID: 117416385717145193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_33
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 4
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eb5e136e0da0410800000000000000
+      internalID: 1444196317623860736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 217
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e078dbdc4d0fb0fc0800000000000000
+      internalID: -3527461086339168498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00012_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 103
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b01fc1c710eda500800000000000000
+      internalID: 409229533801025718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fish_00012_0: 7110873420438671830
+      fish_00012_1: 2720047769696567525
+      fish_00012_10: 3887102638178734300
+      fish_00012_11: -3783418466646601803
+      fish_00012_12: -4881113765096493100
+      fish_00012_13: 4529068039273052002
+      fish_00012_14: -5566426742173443494
+      fish_00012_15: -5549784938249261364
+      fish_00012_16: 3648259213220080927
+      fish_00012_17: 2340550993661644418
+      fish_00012_18: 5787630424208387114
+      fish_00012_19: 300040339635835222
+      fish_00012_2: 6875991862908517488
+      fish_00012_20: -8320836301176738380
+      fish_00012_21: 6940057784919685815
+      fish_00012_22: -5944005987701885191
+      fish_00012_23: 6268374010674111168
+      fish_00012_24: 8511890842129585491
+      fish_00012_25: 3217315289353923874
+      fish_00012_26: -6888509022431161583
+      fish_00012_27: 5191414188919599251
+      fish_00012_28: -8931262433192235151
+      fish_00012_29: -4061449787526408871
+      fish_00012_3: 2739094718252498210
+      fish_00012_30: -3679874737533650047
+      fish_00012_31: -188639052130693274
+      fish_00012_32: 117416385717145193
+      fish_00012_33: 1444196317623860736
+      fish_00012_34: -3527461086339168498
+      fish_00012_35: 409229533801025718
+      fish_00012_4: -593318898919357100
+      fish_00012_5: 3060235199871776056
+      fish_00012_6: 5559034227155216220
+      fish_00012_7: 2402741025758002754
+      fish_00012_8: 3102124483252635233
+      fish_00012_9: 1040934742795828357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

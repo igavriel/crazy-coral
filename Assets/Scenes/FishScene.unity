@@ -576,6 +576,53 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1241467539
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1241467540}
+  - component: {fileID: 1241467541}
+  m_Layer: 0
+  m_Name: QuestManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1241467540
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241467539}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2140808840}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1241467541
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241467539}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab10abb547416ad49b1b6513ad8bac59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  quest:
+  - Merge bubbles to catch the fish
+  arrow: {fileID: 0}
 --- !u!4 &1403631435 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 600466246778069650, guid: 7e647aaabcbe54cb79b102cab8caaf38, type: 3}
@@ -929,6 +976,7 @@ Transform:
   m_Children:
   - {fileID: 1403631435}
   - {fileID: 2032516218}
+  - {fileID: 1241467540}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &4476311159166220934
@@ -991,6 +1039,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1701575284446595029, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
+      propertyPath: m_Alpha
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2395798646614003025, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -1027,6 +1079,22 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1719934142}
+    - target: {fileID: 3542495221587262129, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -332.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 3542495221587262129, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -344.906
+      objectReference: {fileID: 0}
+    - target: {fileID: 3542495221587262129, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -3.9730225
+      objectReference: {fileID: 0}
+    - target: {fileID: 3542495221587262129, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -11.497
+      objectReference: {fileID: 0}
     - target: {fileID: 4663810810867648593, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -1049,11 +1117,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4780623184523412845, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4780623184523412845, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -177.615
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6198694383611760596, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
       propertyPath: m_AnchorMax.y
@@ -1082,6 +1150,18 @@ PrefabInstance:
     - target: {fileID: 6294930596166115622, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
       propertyPath: m_Padding.m_Left
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6336968374338432218, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6336968374338432218, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6336968374338432218, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 6640757482369883119, guid: c95efb9ccaea8c04f912e6e32437ce9c, type: 3}
       propertyPath: m_Sprite

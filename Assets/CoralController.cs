@@ -9,5 +9,11 @@ public class CoralController : MonoBehaviour
     {
         GetComponent<Renderer>().material.DOFloat(1, "_Fade", FadeTime).SetEase(Ease.InOutSine)
             .OnComplete(() => QuestManager.instance.nextStep());
+        Invoke("NextStep", 2f);
+    }
+
+    void NextStep()
+    {
+        QuestManager.instance.nextStep();
     }
 }
